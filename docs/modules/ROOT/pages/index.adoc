@@ -1,0 +1,14 @@
+= Welcome to my test doc!
+:navtitle: Welcome
+
+This is my test doc
+
+== Section 1
+
+Maybe this works
+
+=== Subsection 1
+
+Maybe this works, too?
+
+Let's try **bolding** and _italics_.
