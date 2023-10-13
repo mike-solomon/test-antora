@@ -4,6 +4,7 @@
 .settings
 bin
 build
+node_modules
 target
 .idea
 *.iml
